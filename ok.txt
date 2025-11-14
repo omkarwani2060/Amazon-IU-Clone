@@ -1,1 +1,4 @@
+This project is a fully responsive Amazon Clone website designed using HTML, CSS, and basic JavaScript. It replicates the core UI structure of Amazon’s homepage, including the navigation bar, search bar, hero section, product boxes, and footer.
 
+The website showcases modern layout techniques such as Flexbox, background images, responsive containers, and a clean UI inspired by Amazon.
+It is ideal for beginners who want to practice frontend development and UI cloning.
